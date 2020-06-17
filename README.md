@@ -11,7 +11,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: MovieApp Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-![grab-landing-page](https://firebasestorage.googleapis.com/v0/b/smarttalk-d4bb8.appspot.com/o/Screenrecorder-2020-06-17-16-30-00-436.mp4?alt=media&token=ee2141d6-1382-458d-96db-75608044dc38)
+![grab-landing-page](https://giphy.com/gifs/m9iwuAGhkuRcb6aTrF)
 
 # FEATURES
 * SearchBar
